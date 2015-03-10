@@ -1,0 +1,25 @@
+{
+    "name": "Bluebird",
+    "studioName": "Bluebird",
+    "category": "Polyfill",
+    "iconPath": "/icons/bluebird.png",
+    "author": "Alexandre Morgaut",
+    "contributors": [],
+    "version": "1.0.0",
+    "copyright": "(c) 2015 Alexandre Morgaut",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/Amorgaut/WBluebird.git"
+    },
+    "keywords": ["wakanda", "widget", "es6", "promises", "polyfill", "bluebird"],
+    "engines": {"wakanda": ["9", "10"]},
+    "license": "MIT",
+    "externalWidgets": [ ],
+    "loadDependencies": [
+        {"id": "Widget_V2"},
+        {"id": "BlueBird/lib/bluebird/bluebird.min.js", "version": "1.0.0", "path": "WIDGETS_CUSTOM"},
+        {"id": "BlueBird/widget.js", "version": "1.0.0", "path": "WIDGETS_CUSTOM"},
+        {"id": "BlueBird/css/widget.css", "version": "1.0.0", "path": "WIDGETS_CUSTOM"},
+        {"id": "BlueBird/designer.js", "studioOnly": true, "version": "1.0.0", "path": "WIDGETS_CUSTOM"}
+    ]
+}
