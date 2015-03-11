@@ -5,6 +5,8 @@
 
 The `Bluebird` "custom widget" Polyfill ECMAScript 6 Promise API in Wakanda Pages using a core build of the [Bluebird](https://github.com/petkaantonov/bluebird) library.
 
+To take even more advantages of Promises with Wakanda, feel free to also look at the **[WPromise](https://github.com/AMorgaut/WPromises)** custom widget that _automatically transforms native Wakanda APIs into promisified version_.
+
 ## Why Promises
 
 With promises, it becomes easy:
