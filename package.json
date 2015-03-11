@@ -3,9 +3,9 @@
     "studioName": "Bluebird",
     "category": "Polyfill",
     "iconPath": "/icons/bluebird.png",
-    "author": "Alexandre Morgaut",
+    "author": "Alexandre Morgaut (https://github.com/Amorgaut)",
     "contributors": [],
-    "version": "1.0.0",
+    "version": "1.0.1",
     "copyright": "(c) 2015 Alexandre Morgaut",
     "repository": {
         "type": "git",
